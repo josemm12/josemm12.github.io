@@ -1,0 +1,54 @@
+body{
+    background: #61C9A8;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    margin-top: 50px;
+}
+
+p{
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+a{
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    display: block;
+    margin: 50 auto;
+    width: 100px;
+    padding: 10px;
+    background: #61C9A8;
+    border: 1px solid #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+button{
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+    display: block;
+    margin: 20 auto;
+    width: 100px;
+    padding: 10px;
+    background: black;
+    border: 1px solid #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
